@@ -1,6 +1,8 @@
 ####Local Search using the Min-Conflicts Heuristic
 ####N-Queens Problem
 
+Shunji Lin
+
 Implemented in C (as best as possible) according to the paper:
 
 #####Solving Large-Scale Constraint Satisfaction and Scheduling Problems Using a Heuristic Repair Method
